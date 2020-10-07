@@ -1,5 +1,4 @@
 <container>
-  <img src="https://counter11.stat.ovh/private/freecounterstat.php?c=s5rqndylmddzgtf4ck5n1me5e12m4c3s" />
   <p>hi, I can code</p>
   <center>
     <a>
