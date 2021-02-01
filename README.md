@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm illuminator3
+### Hi, I'm illuminator3
 
-## Languages I know (sort of)
+### Languages I know (sort of)
 [<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;
 [<img src="https://img.shields.io/badge/groovy-4298B8.svg?&style=for-the-badge&logo=apache-groovy&logoColor=white"/>][groovy]&nbsp;
 [<img src="https://img.shields.io/badge/kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]&nbsp;
