@@ -11,8 +11,6 @@
 [<img src="https://img.shields.io/badge/rust%20(currently%20learning)-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][rust]&nbsp;
 [<img src="https://img.shields.io/badge/C%23%20(also%20learning)-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>][rust]&nbsp;
 
-### Check out my newest project, Apollo! A JVM language which I am working on
-
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [groovy]: https://en.wikipedia.org/wiki/Groovy_(programming_language)
 [kotlin]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
