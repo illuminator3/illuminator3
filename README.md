@@ -12,8 +12,9 @@
 [<img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][php]&nbsp;
 [<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>][c]&nbsp;
 [<img src="https://img.shields.io/badge/x86%20assembly-E8CF6E.svg?&style=for-the-badge&logoColor=white"/>][asm]&nbsp;
-[<img src="https://img.shields.io/badge/C%23%20(currently%20learning)-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>][csharp]&nbsp;
-
+[<img src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>][csharp]&nbsp;
+[<img src="https://img.shields.io/badge/Haskell-5D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>][haskell]&nbsp;
+  
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [groovy]: https://en.wikipedia.org/wiki/Groovy_(programming_language)
 [kotlin]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
@@ -24,3 +25,4 @@
 [php]: https://en.wikipedia.org/wiki/PHP_(programming_language)
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [asm]: https://en.wikipedia.org/wiki/X86_assembly_language
+[haskell]: https://en.wikipedia.org/wiki/Haskell_(programming_language)
