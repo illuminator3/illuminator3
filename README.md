@@ -16,7 +16,8 @@
 [<img src="https://img.shields.io/badge/Haskell-5D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>][haskell]&nbsp;
 [<img src="https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>][scala]&nbsp;
 [<img src="https://img.shields.io/badge/JVM%20Bytecode-4F0599.svg?&style=for-the-badge&logo=java&logoColor=white"/>][bytecode]&nbsp;
-  
+[<img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][go]&nbsp;
+ 
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [groovy]: https://en.wikipedia.org/wiki/Groovy_(programming_language)
 [kotlin]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
@@ -30,3 +31,4 @@
 [haskell]: https://en.wikipedia.org/wiki/Haskell_(programming_language)
 [scala]: https://en.wikipedia.org/wiki/Scala_(programming_language)
 [bytecode]: https://en.wikipedia.org/wiki/Java_bytecode
+[go]: https://en.wikipedia.org/wiki/Go_(programming_language)
